@@ -617,7 +617,7 @@ Modify the model to include a latent period between becoming exposed and becomin
 --------------------------
 
 ## [Back to course homepage](http://kingaa.github.io/sbied)
-## [**R** codes for this document](http://raw.githubusercontent.com/kingaa/sbied/master/mif/mif.R)
+## [**R** codes for this document](http://raw.githubusercontent.com/kingaa/sbied/gh-pages/mif/mif.R)
 
 ----------------------
 

@@ -592,7 +592,7 @@ if(run_level>1) save(list = ls(all = TRUE), file = "Rout.rda")
 --------------------------
 
 ## [Back to course homepage](http://kingaa.github.io/sbied)
-## [**R** codes for this document](http://raw.githubusercontent.com/kingaa/sbied/master/polio/polio.R)
+## [**R** codes for this document](http://raw.githubusercontent.com/kingaa/sbied/gh-pages/polio/polio.R)
 
 --------------------------
 

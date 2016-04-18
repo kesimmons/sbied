@@ -285,7 +285,7 @@ for all $n=1,\dots,N$.
 
 ## Example: the Ricker model
 
-[Download a script containing the **R** commands below.](http://raw.githubusercontent.com/kingaa/sbied/master/intro/intro.R)
+[Download a script containing the **R** commands below.](http://raw.githubusercontent.com/kingaa/sbied/gh-pages/intro/intro.R)
 
 #### The deterministic skeleton
 
@@ -625,7 +625,7 @@ Assume the same measurement model as before.
 --------------------------
 
 ## [Back to course homepage](http://kingaa.github.io/sbied)
-## [**R** codes for this document](http://raw.githubusercontent.com/kingaa/sbied/master/intro/intro.R)
+## [**R** codes for this document](http://raw.githubusercontent.com/kingaa/sbied/gh-pages/intro/intro.R)
 
 ----------------------
 
