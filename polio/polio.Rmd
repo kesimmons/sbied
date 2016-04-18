@@ -48,11 +48,7 @@ options(
   encoding="UTF-8"
 )
 ```
-
 ```{r opts,cache=FALSE,include=FALSE}
-## Set this to an appropriate number for your machine
-options(cores=15)
-
 set.seed(5996485L)
 ```
 
@@ -487,7 +483,6 @@ stew(file=sprintf("box_eval-%d.rda",run_level),{
                       }
   })
 },seed=290860873,kind="L'Ecuyer")
-
 
 r3 <- data.frame(logLik=lik_m3[,1],logLik_se=lik_m3[,2],t(sapply(m3,coef)))
 if(run_level>1) write.table(r3,file="polio_params.csv",append=TRUE,col.names=FALSE,row.names=FALSE)
